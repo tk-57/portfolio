@@ -4,13 +4,14 @@ import ArrowRightIcon from '@mui/icons-material/ArrowRight';
 import Link from "next/link";
 import Image from "next/image";
 import Layout from "@/components/Layout";
+import nextConfig from "../../next.config.mjs";
+const BASE_PATH = nextConfig.basePath || "";
 
 export default function Index() {
     return (
         <>
             <Head>
                 <title>KT - Portfolio</title>
-                <link rel="icon" href="/favicon.ico" />
             </Head>
             <main>
                 <Grid pt={4} maxWidth="xl">
@@ -29,7 +30,7 @@ export default function Index() {
                                 gutterBottom
                             >
                                 KTのプロフィール
-                                <Image src="/profile_icon.png" style={{ verticalAlign: "middle", marginLeft: 20 }} width={64} height={64} alt="profile_icon" />
+                                <Image src={`${BASE_PATH}/profile_icon.png`} style={{ verticalAlign: "middle", marginLeft: 20 }} width={64} height={64} alt="profile_icon" />
                             </Typography>
                         </Box>
 
