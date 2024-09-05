@@ -53,7 +53,7 @@ export default function Index() {
                             <ul>
                                 <li>仕事: Webアプリケーション開発</li>
                                 <li>学歴: OCA大阪デザイン&テクノロジー専門学校 e-sports科</li>
-                                <li>好きなもの: アニメ, 映画, ゲーム, VTuber, 旅行, 料理, 個人開発</li>
+                                <li>好きなもの: アニメ, 映画, VTuber, ゲーム, e-sports観戦, 旅行, 料理, 個人開発</li>
                                 <li>仕事: Webアプリケーション開発</li>
                             </ul>
                         </Box>
