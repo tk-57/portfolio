@@ -100,7 +100,7 @@ export default function Resume() {
                                 <li>
                                     個人クライアント 2017/8 ~ 2020/6
                                     <ul>
-                                        <li>Minecraftのサーバー向けプラグインを開発</li>
+                                        <li>Minecraftのサーバー向けプラグイン開発</li>
                                         <li>サーバー構築・運用のサポート</li>
                                     </ul>
                                 </li>
