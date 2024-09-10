@@ -11,7 +11,7 @@ export default function Index() {
     return (
         <>
             <Head>
-                <title>KT - Portfolio</title>
+                <title>tk-57 - Portfolio</title>
             </Head>
             <main>
                 <Grid pt={4} maxWidth="xl">
@@ -29,7 +29,7 @@ export default function Index() {
                                 color="inherit"
                                 gutterBottom
                             >
-                                KTのプロフィール
+                                tk-57のプロフィール
                                 <Image src={`${BASE_PATH}/profile_icon.png`} style={{ verticalAlign: "middle", marginLeft: 20 }} width={64} height={64} alt="profile_icon" />
                             </Typography>
                         </Box>
