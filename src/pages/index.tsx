@@ -76,7 +76,7 @@ export default function Index() {
                             </Typography>
                             <ul>
                                 <li>好きな分野: インフラ, バックエンド, フロントエンド</li>
-                                <li>好きな技術: Docker, Selenium</li>
+                                <li>好きな技術: Docker, Selenium, Tailwind CSS</li>
                                 <li>得意な言語: Java, Python, PHP, JavaScript, TypeScript, HTML/CSS</li>
                                 <li>経験したフレームワーク: Next.JS, React, Laravel, Spring, Express, Electron</li>
                                 <li>
